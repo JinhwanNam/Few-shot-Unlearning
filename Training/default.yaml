@@ -1,0 +1,5 @@
+lr: 0.01
+epochs: 20
+dataset: "MNIST"
+task: "NINE"
+oracle: False

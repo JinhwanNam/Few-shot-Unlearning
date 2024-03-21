@@ -1,0 +1,13 @@
+lr: 0.001
+epochs: 10
+dataset: "MNIST"
+task: "SEVEN"
+percentage: 0.03
+n: 500
+oracle: False
+normalization: "BatchNorm"
+generator_num: 1
+pretrained: False
+eraselabel: "Noisy"
+neutralization: False
+neutralization_epochs: 10
